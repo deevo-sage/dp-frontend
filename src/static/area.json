@@ -1,0 +1,634 @@
+{
+    "zones": [
+        {
+            "name": "western zone",
+            "ranges": [
+                {
+                    "name": "western range",
+                    "districts": [
+                        {
+                            "name": "dwarka",
+                            "subdiv": [
+                                {
+                                    "name": "dabri",
+                                    "ps": [
+                                        "dabri",
+                                        "uttam nagar",
+                                        "binda pur"
+                                    ]
+                                },
+                                {
+                                    "name": "dwarka",
+                                    "ps": [
+                                        "dwarka sec 23",
+                                        "dwarka north",
+                                        "dwarka south"
+                                    ]
+                                },
+                                {
+                                    "name": "chhawla",
+                                    "ps": [
+                                        "chhawla",
+                                        "zafarpur kalan"
+                                    ]
+                                },
+                                {
+                                    "name": "najafgarh",
+                                    "ps": [
+                                        "najafgarf",
+                                        "baba haridas nagar",
+                                        "mohan garden"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "west",
+                            "subdiv": [
+                                {
+                                    "name": "mayapuri",
+                                    "ps": [
+                                        "mayapuri",
+                                        "naraina",
+                                        "inder puri"
+                                    ]
+                                },
+                                {
+                                    "name": "punjabi bagh",
+                                    "ps": [
+                                        "punjabi bagh",
+                                        "moti nagar",
+                                        "kirti nagar"
+                                    ]
+                                },
+                                {
+                                    "name": "rajouri garden",
+                                    "ps": [
+                                        "rajouri garden",
+                                        "hari nagar",
+                                        "janak puri"
+                                    ]
+                                },
+                                {
+                                    "name": "tilak nagar",
+                                    "ps": [
+                                        "tilak nagar",
+                                        "khayala",
+                                        "vikas puri"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "outer",
+                            "subdiv": [
+                                {
+                                    "name": "nangloi",
+                                    "ps": [
+                                        "nangloi",
+                                        "mundka",
+                                        "ranhola"
+                                    ]
+                                },
+                                {
+                                    "name": "paschim vihar",
+                                    "ps": [
+                                        "pashchim vihar east",
+                                        "pashchim vihar west",
+                                        "nihal vihar"
+                                    ]
+                                },
+                                {
+                                    "name": "mangol puri",
+                                    "ps": [
+                                        "mongol puri",
+                                        "rani bagh"
+                                    ]
+                                },
+                                {
+                                    "name": "sultan puri",
+                                    "ps": [
+                                        "sultan puri",
+                                        "raj park"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "northern range",
+                    "districts": [
+                        {
+                            "name": "rohini",
+                            "subdiv": [
+                                {
+                                    "name": "rohini",
+                                    "ps": [
+                                        "rohini south",
+                                        "rohini north",
+                                        "vijay vihar"
+                                    ]
+                                },
+                                {
+                                    "name": "prashant vihar",
+                                    "ps": [
+                                        "prashant vihar",
+                                        "kn katju marg",
+                                        "budh vihar"
+                                    ]
+                                },
+                                {
+                                    "name": "aman vihar",
+                                    "ps": [
+                                        "aman vihar",
+                                        "prem nagar"
+                                    ]
+                                },
+                                {
+                                    "name": "begum pur",
+                                    "ps": [
+                                        "begum pur",
+                                        "kanjhawala"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "outer north",
+                            "subdiv": [
+                                {
+                                    "name": "narela",
+                                    "ps": [
+                                        "narela",
+                                        "narela ind area"
+                                    ]
+                                },
+                                {
+                                    "name": "samay pur badli",
+                                    "ps": [
+                                        "samay pur badli",
+                                        "ali pur"
+                                    ]
+                                },
+                                {
+                                    "name": "bawana",
+                                    "ps": [
+                                        "bawana",
+                                        "shahbad diary"
+                                    ]
+                                },
+                                {
+                                    "name": "swaroop nagar",
+                                    "ps": [
+                                        "swaroop nagar",
+                                        "bhalswa dairy"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "north west",
+                            "subdiv": [
+                                {
+                                    "name": "ashok vihar",
+                                    "ps": [
+                                        "ashok vihar",
+                                        "bharat nagar",
+                                        "keshav pura"
+                                    ]
+                                },
+                                {
+                                    "name": "subhash place",
+                                    "ps": [
+                                        "subhash place",
+                                        "maurya enclave"
+                                    ]
+                                },
+                                {
+                                    "name": "model town",
+                                    "ps": [
+                                        "model town",
+                                        "mukharjee nagar"
+                                    ]
+                                },
+                                {
+                                    "name": "shalimar bagh",
+                                    "ps": [
+                                        "shalimar bagh",
+                                        "mahendra park"
+                                    ]
+                                },
+                                {
+                                    "name": "jahangir puri",
+                                    "ps": [
+                                        "jhangir pur",
+                                        "adarsh nagar",
+                                        "kishangarh"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "southern zone",
+            "ranges": [
+                {
+                    "name": "southern range",
+                    "districts": [
+                        {
+                            "name": "south east",
+                            "subdiv": [
+                                {
+                                    "name": "lajpat nagar",
+                                    "ps": [
+                                        "lajpat nagar",
+                                        "sun light colony",
+                                        "hn din"
+                                    ]
+                                },
+                                {
+                                    "name": "new friends colony",
+                                    "ps": [
+                                        "new friends colony",
+                                        "jamia nagar",
+                                        "shaheen bagh"
+                                    ]
+                                },
+                                {
+                                    "name": "kalkaji",
+                                    "ps": [
+                                        "kalkaji",
+                                        "amar colony",
+                                        "govind puri"
+                                    ]
+                                },
+                                {
+                                    "name": "sarita vihar",
+                                    "ps": [
+                                        "sarita vihar",
+                                        "okhla",
+                                        "kalindi kunj"
+                                    ]
+                                },
+                                {
+                                    "name": "badarpur",
+                                    "ps": [
+                                        "badarpur",
+                                        "pul parhlad pur",
+                                        "jait pur"
+                                    ]
+                                },
+                                {
+                                    "name": "defence colony",
+                                    "ps": [
+                                        "defence colony",
+                                        "kotla mubarak pur",
+                                        "lodhi colony"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "south",
+                            "subdiv": [
+                                {
+                                    "name": "hauz khas",
+                                    "ps": [
+                                        "hauz khas",
+                                        "saket",
+                                        "malviya nagar"
+                                    ]
+                                },
+                                {
+                                    "name": "cr park",
+                                    "ps": [
+                                        "cr park",
+                                        "ambedkar nagar",
+                                        "greater kailash"
+                                    ]
+                                },
+                                {
+                                    "name": "mehrauli",
+                                    "ps": [
+                                        "mehrauli",
+                                        "fath pur beri",
+                                        "maidan garhi"
+                                    ]
+                                },
+                                {
+                                    "name": "sangam vihar",
+                                    "ps": [
+                                        "sangam vihar",
+                                        "neb sarai",
+                                        "tigri"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "new delhi range",
+                    "districts": [
+                        {
+                            "name": "new delhi",
+                            "subdiv": [
+                                {
+                                    "name": "parliament street",
+                                    "ps": [
+                                        "parliament street",
+                                        "north avenue"
+                                    ]
+                                },
+                                {
+                                    "name": "connaught place",
+                                    "ps": [
+                                        "connaught place",
+                                        "mandir marg"
+                                    ]
+                                },
+                                {
+                                    "name": "barakhamba",
+                                    "ps": [
+                                        "barakhamba",
+                                        "tilak marg"
+                                    ]
+                                },
+                                {
+                                    "name": "chanakya puri",
+                                    "ps": [
+                                        "chanakya puri",
+                                        "tuglak road",
+                                        "south avenue"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "south west",
+                            "subdiv": [
+                                {
+                                    "name": "delhi cantt",
+                                    "ps": [
+                                        "delhi cantt",
+                                        "palam village",
+                                        "sagar pur"
+                                    ]
+                                },
+                                {
+                                    "name": "vasant kunj",
+                                    "ps": [
+                                        "vasant kunj north",
+                                        "vasant kunj south",
+                                        "kapashera"
+                                    ]
+                                },
+                                {
+                                    "name": "vasant vihar",
+                                    "ps": [
+                                        "vasant vihar",
+                                        "rk puram",
+                                        "south campus"
+                                    ]
+                                },
+                                {
+                                    "name": "safdarjung enclave",
+                                    "ps": [
+                                        "sj enclave",
+                                        "sarojini nagar",
+                                        "kishangarh"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "northern zone",
+            "ranges": [
+                {
+                    "name": "eastern range",
+                    "districts": [
+                        {
+                            "name": "east",
+                            "subdiv": [
+                                {
+                                    "name": "preet vihar",
+                                    "ps": [
+                                        "preet vihar",
+                                        "laxmi nagar",
+                                        "shakur pur"
+                                    ]
+                                },
+                                {
+                                    "name": "madhu vihar",
+                                    "ps": [
+                                        "madhu vihar",
+                                        "ghazipur",
+                                        "patparganj"
+                                    ]
+                                },
+                                {
+                                    "name": "mayur vihar",
+                                    "ps": [
+                                        "mayur vihar",
+                                        "mandavali",
+                                        "pandav nagar"
+                                    ]
+                                },
+                                {
+                                    "name": "kalyan puri",
+                                    "ps": [
+                                        "kalyan puri",
+                                        "new ashok nagar"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "north east",
+                            "subdiv": [
+                                {
+                                    "name": "seelam pur",
+                                    "ps": [
+                                        "seelam pur",
+                                        "new usman pur",
+                                        "shastri park"
+                                    ]
+                                },
+                                {
+                                    "name": "gokul puri",
+                                    "ps": [
+                                        "gokul puri",
+                                        "dayal pur",
+                                        "jyoti nagar"
+                                    ]
+                                },
+                                {
+                                    "name": "khajuri khas",
+                                    "ps": [
+                                        "khajuri khas",
+                                        "karawal nagar",
+                                        "sonia vihar"
+                                    ]
+                                },
+                                {
+                                    "name": "nand nangri",
+                                    "ps": [
+                                        "nand nangri",
+                                        "harsh vihar"
+                                    ]
+                                },
+                                {
+                                    "name": "bhajan pura",
+                                    "ps": [
+                                        "bhajan pura",
+                                        "welcome",
+                                        "jafarabad"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "shahdara",
+                            "subdiv": [
+                                {
+                                    "name": "shahdara",
+                                    "ps": [
+                                        "shahdara",
+                                        "farsh bazaar"
+                                    ]
+                                },
+                                {
+                                    "name": "vivek vihar",
+                                    "ps": [
+                                        "vivek vihar",
+                                        "anand vihar",
+                                        "jagat puri"
+                                    ]
+                                },
+                                {
+                                    "name": "gandhi nagar",
+                                    "ps": [
+                                        "gandhi nagar",
+                                        "geeta colony",
+                                        "krishna nagar"
+                                    ]
+                                },
+                                {
+                                    "name": "seema puri",
+                                    "ps": [
+                                        "seema puri",
+                                        "mansarovar park",
+                                        "gtb enclave"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "central range",
+                    "districts": [
+                        {
+                            "name": "central",
+                            "subdiv": [
+                                {
+                                    "name": "darya ganj",
+                                    "ps": [
+                                        "darya ganj",
+                                        "chandni mahal",
+                                        "jama masjid"
+                                    ]
+                                },
+                                {
+                                    "name": "kamla market",
+                                    "ps": [
+                                        "kamla market",
+                                        "hauz kazi",
+                                        "ip estate"
+                                    ]
+                                },
+                                {
+                                    "name": "paharganj",
+                                    "ps": [
+                                        "paharganj",
+                                        "nabi karim",
+                                        "dbg road"
+                                    ]
+                                },
+                                {
+                                    "name": "karol bagh",
+                                    "ps": [
+                                        "karol bagh",
+                                        "rajender nagar",
+                                        "prasad nagar"
+                                    ]
+                                },
+                                {
+                                    "name": "patel nagar",
+                                    "ps": [
+                                        "patel nagar",
+                                        "ranjit nagar",
+                                        "anand parbat"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "north",
+                            "subdiv": [
+                                {
+                                    "name": "civil line",
+                                    "ps": [
+                                        "civil line",
+                                        "maurice nagar",
+                                        "roop nagar"
+                                    ]
+                                },
+                                {
+                                    "name": "timar pur",
+                                    "ps": [
+                                        "timar pur",
+                                        "burari",
+                                        "wazirabad"
+                                    ]
+                                },
+                                {
+                                    "name": "sarai rohilla",
+                                    "ps": [
+                                        "sarai rohilla",
+                                        "gulabi bagh"
+                                    ]
+                                },
+                                {
+                                    "name": "sadar bazar",
+                                    "ps": [
+                                        "sadar bazar",
+                                        "bada hindu rao",
+                                        "subzi mandi"
+                                    ]
+                                },
+                                {
+                                    "name": "kotwali",
+                                    "ps": [
+                                        "kotwali",
+                                        "lahori gate",
+                                        "kashmiri gate",
+                                        "kishangarh"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

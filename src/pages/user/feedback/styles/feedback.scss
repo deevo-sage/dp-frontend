@@ -1,0 +1,26 @@
+.feedback-cont{
+background-color: rgb(255, 255, 255);
+max-width: 600px;
+width: 100vw;
+min-height: 100vh;
+display: flex;
+flex-direction: column;
+align-items: center;}
+.feedback-form{
+    display: flex;
+flex-direction: column;
+align-items: center;
+.textarea-cont{
+    resize: none;
+    margin-bottom: 10px;
+}
+.input-cont{
+    margin-bottom: 18px;
+}
+
+.mood{
+display: flex;
+flex-direction: row;
+gap: 10px;
+}
+}
